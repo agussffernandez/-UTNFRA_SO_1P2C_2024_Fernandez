@@ -55,6 +55,8 @@ n
 n
 
 
+#Salgo de las particiones
+w
 # Finalizamos las particiones
 # Formateo de particiones
 sudo mkfs -t ext4 "${DISCO}1"
